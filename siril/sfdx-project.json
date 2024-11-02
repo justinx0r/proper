@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "dev",
+  "name": "siril",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "62.0"
