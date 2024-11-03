@@ -6,6 +6,12 @@
     },
     {
       "path": "operations-app"
+    },
+    {
+      "path": "configuration-app"
+    },
+    {
+      "path": "environment-app"
     }
   ],
   "name": "siril",
